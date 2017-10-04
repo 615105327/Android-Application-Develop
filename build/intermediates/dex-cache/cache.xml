@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Knight\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\BU\ec601\affdexme-android-master\MyFirstApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_23f18bd8144781443f4f307b3e1f219c10974a6c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Knight\.android\build-cache\3259fca63c25eacb1231149251a5dc1f43f13af5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\BU\ec601\affdexme-android-master\MyFirstApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ca81a799a498d94c6b3ffb4f85cfb616daf0f227\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Knight\.android\build-cache\f3d081f3a49bd99ce2d5de6bfba8eae5de3fe7fd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\BU\ec601\affdexme-android-master\MyFirstApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1d684d656cc9ee6de4e6d16547b0c6c312f6e8db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Knight\.android\build-cache\804b2eca47007b03bcd48141cd179d17313dc199\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\BU\ec601\affdexme-android-master\MyFirstApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bc37acc9f2da3c2048d26636225b5eac795a7d03\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Knight\.android\build-cache\10431752b19e9d4510108bd9e592105aa0868153\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\BU\ec601\affdexme-android-master\MyFirstApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2bf31e83f3201835d93f6199f72d02b2c0b5e41b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Knight\.android\build-cache\8380148dabe39479905047b7d66e4c9e414b09c3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\BU\ec601\affdexme-android-master\MyFirstApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6d09abc6a64a12a41846b64bd9e67beab7c64987\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Knight\.android\build-cache\1c1c19d51a17b90e53d2d842f8792a4b290b5cbf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\BU\ec601\affdexme-android-master\MyFirstApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5f5314b0aaefe3130d0dc327564ed829fb2ef942\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Knight\.android\build-cache\d14c6f0b1a83d798d141abfd63e41672fd04f784\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\BU\ec601\affdexme-android-master\MyFirstApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ee3ea3633adb4375b66ff54c745f8e0a3e22d384\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\BU\ec601\affdexme-android-master\MyFirstApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3e3878aa6391688f209fc613475b3bd3637aac66">
+        <dex dex="D:\BU\ec601\affdexme-android-master\MyFirstApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_21366ef97585e508224f48eb23a051e207dd8de9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Knight\.android\build-cache\dbfa55a02f0bea5dbfa3cffd7a69a584a2fcdde1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\BU\ec601\affdexme-android-master\MyFirstApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2c140ae92ff1da081f2f781255764e4448d7e527\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\BU\ec601\affdexme-android-master\MyFirstApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\BU\ec601\affdexme-android-master\MyFirstApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c03aad2e1e606167ec351b508c0a0ae5d6d82ffd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Knight\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\BU\ec601\affdexme-android-master\MyFirstApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_b0adf01785562db3ec8a8a91290368613f91e7c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Knight\.android\build-cache\1e4d7a83f71f44d01a5fe693cf0f6f264f9c5e15\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\BU\ec601\affdexme-android-master\MyFirstApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1e43a497883a13d5e776a88b960d73c9e3f80e61\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Knight\.android\build-cache\01236a398f2a545e13ac01706300b2a618404cd4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\BU\ec601\affdexme-android-master\MyFirstApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_656be700971f00daa159ef993f471ebb52f6625d\classes.dex" />
+    </item>
+
+</items>
